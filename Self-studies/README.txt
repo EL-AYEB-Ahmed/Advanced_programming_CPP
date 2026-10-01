@@ -1,9 +1,6 @@
-This is a tutorial for entering into C++, you are supposed to do the
-exercises one by one, in the order suggested by the filenames. This is
-self-study but you are welcome to ask questions by e-mail or to visit
-the C++ teachers.
-
-Work as a group if possible.
+This is a tutorial for entering into C++, if you want to follow my
+path you are supposed to do the exercises one by one, in the order 
+suggested by the filenames. 
 
 There is no other support than the .cpp files, which can be compiled
 and executed. Every instruction is in the comments. You won't be asked
