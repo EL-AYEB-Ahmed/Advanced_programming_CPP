@@ -13,5 +13,5 @@ This labwork adresses basic C++ concepts:
     …
 
 You will produce videos… and all the groups/individuals will be challenged for making the best one. The winner price is an all-inclusive programming week-end with the C++ teacher you like the most.
- 
+
 You can inspire from the definition of “boids” : https://en.wikipedia.org/wiki/Boids
