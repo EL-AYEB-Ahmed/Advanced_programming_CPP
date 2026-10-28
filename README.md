@@ -6,4 +6,4 @@ C++ requires a precise understanding of what happens behind the language, especi
 
 I then apply these concepts in practice through different labworks, progressively developing my understanding of C++ Object Oriented programming.
 
-The other folders contain aplications developed with c++, to apply what I learned in the self-studies other advanced notions (shared pointers / lambda functions / inheritance / templates / system programming)
+The other folders contain applications developed with c++, to apply what I learned in the self-studies other advanced notions (shared pointers / lambda functions / inheritance / templates / system programming)
